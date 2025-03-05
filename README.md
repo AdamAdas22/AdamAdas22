@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam, an <a href=>IT Professional</a>☺</h1>
+<h1>Hi, I'm Adam, an aspiring <a href=>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
