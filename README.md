@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AdamAdas22/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Creating Users with Powershell](https://github.com/AdamAdas22/configure-ad)
-  - [Managing Accounts and Inspecting Network Traffic](https://github.com/AdamAdas22/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Configuring Accounts](https://github.com/AdamAdas22/azure-network-protocols)
 
 <h3>Connect with me:</h3>
 
