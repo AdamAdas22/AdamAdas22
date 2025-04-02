@@ -9,6 +9,8 @@
 - <b>Active Directory</b>
   - [Creating Users with Powershell](https://github.com/AdamAdas22/configure-ad)
   - [Network Security Groups (NSGs) and Configuring Accounts](https://github.com/AdamAdas22/azure-network-protocols)
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machines](https://github.com/AdamAdas22/azureVM)
 
 <h3>Connect with me:</h3>
 
